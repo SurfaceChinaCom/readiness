@@ -1,2 +1,2 @@
-# readiness
-readines files 
+# starting point for the product and channel readiness
+
